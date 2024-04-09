@@ -1,2 +1,2 @@
-# my-repo minor update!
+# my-repo
 Practice repository for learning Git 
